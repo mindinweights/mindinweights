@@ -54,5 +54,5 @@ A game built by a team of 4. Served as **Junior Game Data Analyst** — analyzed
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fr45201-collab)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mindinweihghts)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fr45201@gmail.com)
