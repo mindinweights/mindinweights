@@ -40,12 +40,12 @@ Student focused on **Data Analysis** and **AI/ML**. Currently building small pro
 
 ## Featured Projects
 
-### [MicroMind](https://github.com/fr45201-collab/MicroMind)
+### [MicroMind](https://github.com/mindinweights/MicroMind)
 A mini GPT built from scratch in Python — implemented to understand transformer architecture, tokenization, and training at a small scale.
 
 `Python` · `PyTorch` · `NumPy`
 
-### [Wildbound](https://github.com/fr45201-collab/wildbound)
+### [Wildbound](https://github.com/mindinweights/wildbound)
 A game built by a team of 4. Served as **Junior Game Data Analyst** — analyzed player behavior, match statistics, weapon performance, and retention data to guide gameplay improvements.
 
 `Team of 4` · `Python` · `Pandas`
@@ -54,5 +54,5 @@ A game built by a team of 4. Served as **Junior Game Data Analyst** — analyzed
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mindinweihghts)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mindinweights)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fr45201@gmail.com)
