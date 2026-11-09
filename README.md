@@ -45,7 +45,7 @@ A mini GPT built from scratch in Python — implemented to understand transforme
 
 `Python` · `PyTorch` · `NumPy`
 
-### Wildbound *(in development)*
+### [Wildbound](https://github.com/fr45201-collab/wildbound)
 A game built by a team of 4. Served as **Junior Game Data Analyst** — analyzed player behavior, match statistics, weapon performance, and retention data to guide gameplay improvements.
 
 `Team of 4` · `Python` · `Pandas`
